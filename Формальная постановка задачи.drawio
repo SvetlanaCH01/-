@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-22T13:24:35.018Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="0rtKLit8rzOvMk6XDuyX" version="21.0.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-22T14:14:45.518Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="XBzeI_Qo37jaEyGUyKOQ" version="21.0.10" type="github">
   <diagram name="Страница 1" id="7Tp4dtKvz_bxgCv6Vncr">
     <mxGraphModel dx="1820" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -69,6 +69,42 @@
             <mxPoint x="340" y="289.5" as="sourcePoint" />
             <mxPoint x="620" y="289.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="i2495FWqEjLljB1UTNFo-26" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="720" y="1090" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="i2495FWqEjLljB1UTNFo-27" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;Работа с записями приемов&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="i2495FWqEjLljB1UTNFo-26">
+          <mxGeometry x="-10" width="227.22" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="i2495FWqEjLljB1UTNFo-28" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;А4&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="i2495FWqEjLljB1UTNFo-26">
+          <mxGeometry x="153.33333333333334" y="70" width="76.66666666666667" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i2495FWqEjLljB1UTNFo-29" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="470" y="960" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="i2495FWqEjLljB1UTNFo-30" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;Работа с диагнозами&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="i2495FWqEjLljB1UTNFo-29">
+          <mxGeometry width="217.2222222222222" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="i2495FWqEjLljB1UTNFo-31" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;А3&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="i2495FWqEjLljB1UTNFo-29">
+          <mxGeometry x="153.33333333333334" y="70" width="76.66666666666667" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i2495FWqEjLljB1UTNFo-32" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-60" y="720" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="i2495FWqEjLljB1UTNFo-33" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;Авторизация врачей&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="i2495FWqEjLljB1UTNFo-32">
+          <mxGeometry width="217.2222222222222" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="i2495FWqEjLljB1UTNFo-34" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;А1&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="i2495FWqEjLljB1UTNFo-32">
+          <mxGeometry x="153.33333333333334" y="70" width="76.66666666666667" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i2495FWqEjLljB1UTNFo-35" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="190" y="840" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="i2495FWqEjLljB1UTNFo-36" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;Работа с пациентами&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="i2495FWqEjLljB1UTNFo-35">
+          <mxGeometry width="217.2222222222222" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="i2495FWqEjLljB1UTNFo-37" value="А2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="i2495FWqEjLljB1UTNFo-35">
+          <mxGeometry x="153.33333333333334" y="70" width="76.66666666666667" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
