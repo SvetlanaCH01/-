@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-19T10:24:13.898Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="hT8nZ6wlEAa0T7LU0Koj" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-19T11:06:11.994Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="G-CNqG8d3CITDf-SP0Dw" version="21.7.5" type="github">
   <diagram name="Страница — 1" id="EunSvjTo_XKafHwg6r-F">
-    <mxGraphModel dx="954" dy="512" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1354" dy="512" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -210,6 +210,79 @@
         </mxCell>
         <mxCell id="4DFE52tn5cyWbE6RlDJZ-42" value="Обработанный заказ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="510" y="640" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4DFE52tn5cyWbE6RlDJZ-43" value="Мобильное приложение клиента" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="1050" width="300" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="4DFE52tn5cyWbE6RlDJZ-44" value="Интерфейс для сканирования QR-кода столика" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="4DFE52tn5cyWbE6RlDJZ-43">
+          <mxGeometry y="30" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4DFE52tn5cyWbE6RlDJZ-45" value="Меню с выбором блюд и напитков" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="4DFE52tn5cyWbE6RlDJZ-43">
+          <mxGeometry y="60" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4DFE52tn5cyWbE6RlDJZ-52" value="Корзина для формирования заказа" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="4DFE52tn5cyWbE6RlDJZ-43">
+          <mxGeometry y="90" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4DFE52tn5cyWbE6RlDJZ-46" value="Система оплаты через приложение" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="4DFE52tn5cyWbE6RlDJZ-43">
+          <mxGeometry y="120" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4DFE52tn5cyWbE6RlDJZ-49" value="Центральная система&lt;span id=&quot;docs-internal-guid-0a16b461-7fff-e924-1c03-b902e3574920&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;/span&gt;" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1150" width="310" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4DFE52tn5cyWbE6RlDJZ-50" value="Управление столиками и заказами&lt;span id=&quot;docs-internal-guid-01f39aaf-7fff-52db-7e93-a660042b7b28&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-01f39aaf-7fff-52db-7e93-a660042b7b28&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="4DFE52tn5cyWbE6RlDJZ-49">
+          <mxGeometry y="30" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4DFE52tn5cyWbE6RlDJZ-51" value="Связь с кухней и баром для передачи заказов" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="4DFE52tn5cyWbE6RlDJZ-49">
+          <mxGeometry y="60" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4DFE52tn5cyWbE6RlDJZ-55" value="Учет оплат и разделение счетов" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="4DFE52tn5cyWbE6RlDJZ-49">
+          <mxGeometry y="90" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4DFE52tn5cyWbE6RlDJZ-56" value="Кухня и бар&lt;span id=&quot;docs-internal-guid-0a16b461-7fff-e924-1c03-b902e3574920&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;/span&gt;" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1010" width="290" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="4DFE52tn5cyWbE6RlDJZ-58" value="Прием заказов из центральной системы" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="4DFE52tn5cyWbE6RlDJZ-56">
+          <mxGeometry y="30" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4DFE52tn5cyWbE6RlDJZ-59" value="Оповещение о готовности заказов" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="4DFE52tn5cyWbE6RlDJZ-56">
+          <mxGeometry y="60" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4DFE52tn5cyWbE6RlDJZ-60" value="Официанты&lt;span id=&quot;docs-internal-guid-0a16b461-7fff-e924-1c03-b902e3574920&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;/span&gt;" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1290" width="410" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="4DFE52tn5cyWbE6RlDJZ-61" value="Использование мобильных устройств для мониторинга заказов&amp;nbsp;&lt;span id=&quot;docs-internal-guid-01f39aaf-7fff-52db-7e93-a660042b7b28&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="4DFE52tn5cyWbE6RlDJZ-60">
+          <mxGeometry y="30" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4DFE52tn5cyWbE6RlDJZ-63" value="Доставка заказов&amp;nbsp; клиентам" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="4DFE52tn5cyWbE6RlDJZ-60">
+          <mxGeometry y="60" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4DFE52tn5cyWbE6RlDJZ-64" value="" style="endArrow=none;html=1;rounded=0;entryX=0.218;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="4DFE52tn5cyWbE6RlDJZ-49">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="1130" as="sourcePoint" />
+            <mxPoint x="290" y="1150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="270" y="1130" />
+              <mxPoint x="358" y="1130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4DFE52tn5cyWbE6RlDJZ-65" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="1164" as="sourcePoint" />
+            <mxPoint x="720" y="1100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="720" y="1164" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4DFE52tn5cyWbE6RlDJZ-66" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="1230" as="sourcePoint" />
+            <mxPoint x="690" y="1290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="690" y="1230" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
