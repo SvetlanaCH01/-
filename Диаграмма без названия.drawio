@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-11-04T11:55:26.808Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" etag="zSaivpQO0JkoLd3djJ51" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-11-04T13:00:42.744Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" etag="1U4vYcOc49Bekfgr17R8" version="24.7.1" type="github">
   <diagram name="Страница — 1" id="fCkpRWh99aBojFZ-7_Tk">
-    <mxGraphModel dx="658" dy="346" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="681" dy="359" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="826" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -97,6 +97,132 @@
         </mxCell>
         <mxCell id="arIyV5iu4nvGZHiWGCjP-23" value="&lt;b&gt;Часть 3&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="arIyV5iu4nvGZHiWGCjP-27" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/138/138043.png;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="124" width="62" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="arIyV5iu4nvGZHiWGCjP-28" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/149/149229.png;" vertex="1" parent="1">
+          <mxGeometry x="970" y="121" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="arIyV5iu4nvGZHiWGCjP-30" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/901/901509.png;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="119" width="66" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="arIyV5iu4nvGZHiWGCjP-31" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/254/254638.png;" vertex="1" parent="1">
+          <mxGeometry x="840" y="119" width="72" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="arIyV5iu4nvGZHiWGCjP-35" value="БД" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1233" y="179" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="arIyV5iu4nvGZHiWGCjP-36" value="Сервер" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1102" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="arIyV5iu4nvGZHiWGCjP-37" value="Интернет" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="970" y="179" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="arIyV5iu4nvGZHiWGCjP-38" value="Клиент" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="846" y="186" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="arIyV5iu4nvGZHiWGCjP-45" value="Запрос" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="900" y="143.64" as="sourcePoint" />
+            <mxPoint x="970" y="143.64" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="910" y="143.64" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arIyV5iu4nvGZHiWGCjP-46" value="Ответ" style="endArrow=none;html=1;rounded=0;endFill=0;startArrow=classic;startFill=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="900" y="157.64" as="sourcePoint" />
+            <mxPoint x="970" y="157.64" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arIyV5iu4nvGZHiWGCjP-47" value="Запрос" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1162" y="144.64" as="sourcePoint" />
+            <mxPoint x="1232" y="144.64" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1172" y="144.64" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arIyV5iu4nvGZHiWGCjP-48" value="Ответ" style="endArrow=none;html=1;rounded=0;endFill=0;startArrow=classic;startFill=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1162" y="158.64" as="sourcePoint" />
+            <mxPoint x="1232" y="158.64" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arIyV5iu4nvGZHiWGCjP-49" value="Запрос" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1029.5" y="143.64" as="sourcePoint" />
+            <mxPoint x="1099.5" y="143.64" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1039.5" y="143.64" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arIyV5iu4nvGZHiWGCjP-50" value="Ответ" style="endArrow=none;html=1;rounded=0;endFill=0;startArrow=classic;startFill=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1029.5" y="157.64" as="sourcePoint" />
+            <mxPoint x="1099.5" y="157.64" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arIyV5iu4nvGZHiWGCjP-61" value="Запрос" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="784" y="143.64" as="sourcePoint" />
+            <mxPoint x="854" y="143.64" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="794" y="143.64" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arIyV5iu4nvGZHiWGCjP-62" value="Ответ" style="endArrow=none;html=1;rounded=0;endFill=0;startArrow=classic;startFill=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="784" y="157.64" as="sourcePoint" />
+            <mxPoint x="854" y="157.64" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arIyV5iu4nvGZHiWGCjP-63" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/3646/3646958.png;" vertex="1" parent="1">
+          <mxGeometry x="701" y="108" width="82" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="arIyV5iu4nvGZHiWGCjP-64" value="VR-очки" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="709" y="165" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="arIyV5iu4nvGZHiWGCjP-65" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/2292/2292072.png;" vertex="1" parent="1">
+          <mxGeometry x="613" y="85" width="32" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="arIyV5iu4nvGZHiWGCjP-66" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/2292/2292072.png;" vertex="1" parent="1">
+          <mxGeometry x="613" y="137.5" width="33.5" height="33.5" as="geometry" />
+        </mxCell>
+        <mxCell id="arIyV5iu4nvGZHiWGCjP-67" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/2292/2292072.png;" vertex="1" parent="1">
+          <mxGeometry x="614.5" y="189" width="32" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="arIyV5iu4nvGZHiWGCjP-68" value="Кассета 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="601" y="109" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="arIyV5iu4nvGZHiWGCjP-69" value="Кассета 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="599" y="161" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="arIyV5iu4nvGZHiWGCjP-70" value="Кассета 3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="601" y="215" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="arIyV5iu4nvGZHiWGCjP-71" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="655" y="99" as="sourcePoint" />
+            <mxPoint x="690" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arIyV5iu4nvGZHiWGCjP-72" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="150" as="sourcePoint" />
+            <mxPoint x="690" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arIyV5iu4nvGZHiWGCjP-73" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="200" as="sourcePoint" />
+            <mxPoint x="690" y="170" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
